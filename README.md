@@ -1,1 +1,3 @@
-# Machine_Learning-Models
+#### Machine Learning / Artificial Intelligence
+
+This repo contains ML/AI models 😀
